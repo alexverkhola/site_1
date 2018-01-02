@@ -6,7 +6,10 @@
 Используемые технологии:
 
 PHP 7
+
 Vagrant(scotchbox)
+
 удалённое размещение файлов на Google disk
+
 Bootstrap
 
